@@ -14,7 +14,7 @@
  - 🔭 Currently volunteering as Junior Machine Learning Engineer @Omdena to solve real world problems using AI.
  - 🌱 Pursuing MSC Psychological Research Methods with Data Science @ The University of Sheffield, UK. 
  - 👯 Looking forward to collaborate on research projects to enhance human wellbeing.
- - 🤔 Would love help with applying for Data Science related opportunities.
+ - 🤔 Would love help insights with Data Science opportunities.
  - 📫 Reach me at pfarzana1313@gmail.com
  - ⚡ Quirk: Am a computer engineer & a psychologist who loves to paint.
 <br />
