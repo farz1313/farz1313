@@ -12,5 +12,7 @@
  - 📫 Reach me at pfarzana1313@gmail.com
  - ⚡ Quirk: Am a computer engineer & a psychologist who loves to paint.
 <br />
+<p>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/farzanapatel)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](pfarzana1313@gmail.com)
+</p>
