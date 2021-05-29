@@ -16,6 +16,7 @@
  - 🤔 Would love help with Data Science opportunities & insights.
  - 📫 Reach me at pfarzana1313@gmail.com
  - ⚡ Quirk: Am a computer engineer & a psychologist who loves to paint.
+ - ✨ Check my portfolio at https://farz1313.github.io/Portfolio/
 <br />
 
 <br>
@@ -27,7 +28,8 @@
  </a>
  
 </br>
- <!--
+
+<!--
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
@@ -36,9 +38,9 @@
     <a href="https://www.linkedin.com/in/farzanapatel/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:pfarzana1313@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-
+-->
 </p>
--->  
+ 
 <!--
 <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/farzanapatel)
