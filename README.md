@@ -11,7 +11,8 @@
 <br>
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
  
- - 🌱 Pursuing MSC Psychological Research Methods with Data Science @ The University of Sheffield, UK. 
+ - ✨ Data Scientist @ the Office for National Statistics, UK
+ - 🌱 Pursued MSC Psychological Research Methods with Data Science @ The University of Sheffield, UK. 
  - 👯 Looking forward to collaborate on research projects to enhance human wellbeing.
  - 🤔 Would love help with Data Science opportunities & insights.
  - 📫 Reach me at pfarzana1313@gmail.com
