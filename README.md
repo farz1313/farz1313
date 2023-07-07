@@ -18,6 +18,7 @@
  - 📫 Reach me at pfarzana1313@gmail.com
  - ⚡ Quirk: Am a computer engineer & a psychologist who loves to paint.
  - ✨ Check my portfolio at https://farz1313.github.io/Portfolio/
+ - ✨ Paintings Portfolio at https://farz1313.github.io/FarzPaintings/
 <br />
 
 <br>
